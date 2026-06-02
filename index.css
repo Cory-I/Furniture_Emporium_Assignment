@@ -1,0 +1,62 @@
+article {
+  box-sizing: content-box height= "2rem" width= "1rem";
+  border-radius: 20px/20px;
+  padding: 0.5rem;
+  background: #46758b;
+  margin: 1rem;
+  corner-shape: rounded;
+}
+body {
+  background: #a0bfce;
+}
+button {
+  border: 3px solid #f4f6f7;
+  width: 10rem;
+  padding: 0.5rem;
+  border-radius: 8px/8px;
+  margin: 0.25rem;
+  background: #f4f6f7;
+  font-family: Monospace, serif;
+  color: #304e5a;
+  transition: background-color 0.9s ease;
+}
+button:hover {
+  background-color: #304e5a;
+  border: 3px solid #304e5a;
+  color: #f4f6f7;
+}
+P {
+  margin: 0.35rem;
+  font-family: Helvetica, arial, sans-serif;
+  color: #f4f6f7;
+}
+h2 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0.35rem;
+  font-size: 3rem;
+  font-family: georgia, Helvetica, sans-serif;
+  color: #f4f6f7;
+}
+h1 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0.35rem;
+  font-size: 3rem;
+  font-family: georgia, Helvetica, sans-serif;
+  color: #304e5a;
+}
+.hoover {
+  font-size: 1.5rem;
+  color: #ecf6fd;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.roosevelt {
+  font-size: 2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.sub-heading {
+  margin: 0.35rem;
+  font-family: Helvetica, arial, sans-serif;
+  color: #304e5a;
+}
